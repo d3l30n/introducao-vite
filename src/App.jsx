@@ -1,3 +1,12 @@
+/**
+ * @file   src\App.jsx
+ * @author Diogo Deleon
+ * @date   2026-07-30
+ * @desc   [Descrição do componente ou arquivo]
+ */
+
+
+
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
